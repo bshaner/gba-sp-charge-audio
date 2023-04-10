@@ -1,0 +1,56 @@
+{
+    "parts": [
+        {
+            "name": "CX90B-16P",
+            "files" : [
+                {
+                    "type": "3D Model",
+                    "filename": "CX90B-16P_CL0480-0755-0-00_3DDrawing_STEP_CX90B-16P_3D_48007525000_3D_STP.stp",
+                    "source": "https://www.hirose.com/en/product/document?clcode=CL0480-0755-0-00&productname=CX90B-16P&series=CX&documenttype=3DDrawing_STEP&lang=en&documentid=CX90B-16P_3D_48007525000_3D_STP",
+                    "human_source": "https://www.hirose.com/product/p/CL0480-0755-0-00"
+                },
+                {
+                    "type": "footprint",
+                    "filename": "CX90B-16P.kicad_mod",
+                    "human_source": "https://app.ultralibrarian.com/details/7FEF45E8-9B48-11EA-B5D0-0AEBB021A1EA/Hirose/CX90M-16P"
+                },
+                {
+                    "type": "symbol",
+                    "filename": "CX90B-16P.lib",
+                    "human_source": "https://app.ultralibrarian.com/details/7FEF45E8-9B48-11EA-B5D0-0AEBB021A1EA/Hirose/CX90M-16P"
+                }
+            ]
+        },
+        {
+            "name": "PTN5150",
+            "files": [
+                {
+                    "type": "3D Model",
+                    "filename": "PTN5150AHXMP.stp",
+                    "human_source": "https://www.nxp.com/packages/SOT1355-1"
+                },
+                {
+                    "type": "footprint",
+                    "filename": "USBCONTROLLER_PTN5150AHXMP.kicad_mod",
+                    "human_source": "https://www.snapeda.com/parts/PTN5150AHXMP/NXP%20USA%20Inc./view-part/"
+                },
+                {
+                    "type": "symbol",
+                    "filename": "PTN5150AHXMP.lib",
+                    "human_source": "https://www.snapeda.com/parts/PTN5150AHXMP/NXP%20USA%20Inc./view-part/"
+                }
+            ]
+        },
+        {
+            "name": "mousebites",
+            "files": [
+                {
+                    "type": "footprint",
+                    "filename": "mouse-bite-2.54mm-slot.kicad_mod",
+                    "source": "https://github.com/madworm/Panelization.pretty/raw/master/mouse-bite-2.54mm-slot.kicad_mod",
+                    "human_source": "https://github.com/madworm/Panelization.pretty"
+                }
+            ]
+        }
+    ]
+}

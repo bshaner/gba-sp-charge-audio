@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "PTN5150AHXMP")(type "Legacy")(uri "${KIPRJMOD}/lib/PTN5150/PTN5150AHXMP.lib")(options "")(descr ""))
+  (lib (name "GBA_SP_EXT2")(type "Legacy")(uri "${KIPRJMOD}/lib/GBA_SP_EXT2/GBA_SP_EXT2.lib")(options "")(descr ""))
+  (lib (name "CX90B-16P")(type "Legacy")(uri "${KIPRJMOD}/lib/CX90B-16P/CX90B-16P.lib")(options "")(descr ""))
+)

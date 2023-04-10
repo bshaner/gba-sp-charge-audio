@@ -1,0 +1,6 @@
+# Ignore non-redistributable files
+*/*
+
+# Whitelist exceptions that are (re)distributable
+!PTN5150/*
+!GBA_SP_EXT2/*

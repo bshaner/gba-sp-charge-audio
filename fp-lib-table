@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "GBA_SP_EXT2")(type "KiCad")(uri "${KIPRJMOD}/lib/GBA_SP_EXT2")(options "")(descr ""))
+  (lib (name "PTN5150")(type "KiCad")(uri "${KIPRJMOD}/lib/PTN5150")(options "")(descr ""))
+  (lib (name "CX90B-16P")(type "KiCad")(uri "${KIPRJMOD}/lib/CX90B-16P")(options "")(descr ""))
+  (lib (name "mousebites")(type "KiCad")(uri "${KIPRJMOD}/lib/mousebites")(options "")(descr ""))
+)
