@@ -8,6 +8,7 @@ Other folks have created similar projects before, but none that are compliant en
 Since the audio accessory standard and PD standard both use the CC lines, a dedicated IC is required to 
 negotiate charging and detect when headphones or a 3.5mm jack adapter are connected.
 
+TODO: renders, cut version with gerbers
 
 TODO: assembly pictures
 
